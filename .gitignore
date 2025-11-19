@@ -1,0 +1,15 @@
+# Python backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Environment files
+*.env
+
+# Node frontend
+frontend/ChatWithPdf/node_modules/
+frontend/ChatWithPdf/dist/
+
+# General ignores
+.DS_Store
+*.log
